@@ -4,7 +4,7 @@ Welcome to my **Daily Python Practice** repository! This repository contains my 
  
 ---
  
-## 📖 About           
+## 📖 About            
  
 This repository is dedicated to improving my understanding of Python by solving coding problems, writing small programs, and exploring different Python concepts every day.
  
