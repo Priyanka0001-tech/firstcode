@@ -1,7 +1,7 @@
  # 🐍 Daily Python Practice  
  
 Welcome to my **Daily Python Practice** repository! This repository contains my daily Python coding exercises, practice programs, and problem-solving solutions. The goal is to strengthen my Python programming skills through consistent practice and hands-on coding. 
- 
+  
 ---
  
 ## 📖 About            
