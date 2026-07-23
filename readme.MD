@@ -5,7 +5,7 @@ Welcome to my **Daily Python Practice** repository! This repository contains my 
 --- 
  
 ## 📖 About            
-  
+   
 This repository is dedicated to improving my understanding of Python by sol ving coding problems, writing small programs, and exploring different Python concepts every day.  
   
 The practice covers beginner to intermediate topics and focuses on writing clean, efficient, and readable code.
