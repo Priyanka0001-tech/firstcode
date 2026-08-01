@@ -18,7 +18,7 @@ The practice covers beginner to intermediate topics and focuses on writing clean
 - Build strong problem-solving abilities
 - Learn Python fundamentals through practice
 - Prepare for coding interviews and technical assessments 
-- Maintain a consistent daily coding habit
+- Maintain a consistent daily coding habit 
 
 ---
 
