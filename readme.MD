@@ -10,7 +10,7 @@ This repository is dedicated to improving my understanding of Python by sol ving
   
 The practice covers beginner to intermediate topics and focuses on writing clean, efficient, and readable code.
 
----
+--- 
 
 ## 🎯 Objectives
   
