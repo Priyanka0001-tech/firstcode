@@ -40,7 +40,7 @@ The practice covers beginner to intermediate topics and focuses on writing clean
 - Object-Oriented Programming (OOP)
 - Modules and Packages
 - Lambda Functions
-- List Comprehensions
+- List Comprehensions                             
 - Regular Expressions
 - Date and Time
 - Python Collections
