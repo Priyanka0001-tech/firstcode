@@ -28,7 +28,7 @@ The practice covers beginner to intermediate topics and focuses on writing clean
 - Input and Output
 - Operators
 - Conditional Statements
-- Loops
+- Loops                         
 - Functions
 - Strings
 - Lists
